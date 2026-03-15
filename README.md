@@ -1,4 +1,4 @@
-# # Three Tier Web Architecture Cloud Deployment using React Js NodeJS MongoDB AWS EKS Jenkins Terraform Kubernetes Prometheus Grafana ARGO CD Helm Charts AWS Load Balancers Prometheus Sonarqube Docker 
+# # Three Tier Web Architecture Cloud Deployment using React Js NodeJS MongoDB AWS EKS Jenkins Terraform Kubernetes Prometheus Grafana ARGO CD Helm Charts AWS Load Balancers Prometheus Sonarqube Docker Trivy
 
 ## Overview
 This repository hosts the `# Three Tier Web Application Deployment using Terraform Amazon EKS 
