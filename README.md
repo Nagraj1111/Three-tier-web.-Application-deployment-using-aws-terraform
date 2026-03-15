@@ -1,8 +1,8 @@
-# # Three Tier Web Architecture Cloud Deployment using React Js NodeJS MongoDB AWS EKS Jenkins Terraform Kubernetes Prometheus Grafana ARGO CD Helm Charts AWS Load Balancers Prometheus 
+# # Three Tier Web Architecture Cloud Deployment using React Js NodeJS MongoDB AWS EKS Jenkins Terraform Kubernetes Prometheus Grafana ARGO CD Helm Charts AWS Load Balancers Prometheus Sonarqube Docker 
 
 ## Overview
-This repository hosts the `#TWSThreeTierAppChallenge` for the TWS community. 
-The challenge involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. Participants are encouraged to deploy the application, add creative enhancements, and submit a Pull Request (PR). Merged PRs will earn exciting prizes!
+This repository hosts the `# Three Tier Web Application Deployment using Terraform Amazon EKS 
+The Project  involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. add creative enhancements, and submit a Pull Request (PR). 
 
 
 ## Prerequisites
@@ -137,10 +137,6 @@ Go to EC2 console, access security group section and delete security groups crea
 - Deploy the application, adding your creative enhancements.
 - Ensure your code adheres to the project's style and contribution guidelines.
 - Submit a Pull Request with a detailed description of your changes.
-
-## Rewards
-- Successful PR merges will be eligible for exciting prizes!
-
 ## Support
 For any queries or issues, please open an issue in the repository.
 
